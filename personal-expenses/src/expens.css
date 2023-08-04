@@ -1,0 +1,18 @@
+.card {
+  /* Set a fixed width for the card, adjust as needed */
+  width: 400px;
+  margin: 0 auto; /* Center the card horizontally */
+}
+
+.form-group {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px; /* Add some space between form groups */
+
+}
+
+label {
+  /* Set a fixed width for the labels, adjust as needed */
+  width: 150px;
+  margin-right: 10px; /* Add some space between the label and input */
+}

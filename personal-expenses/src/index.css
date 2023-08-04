@@ -1,0 +1,20 @@
+
+
+.card {
+  background-color: #3a659b;
+  color: #fff;
+  
+}
+
+.form-group label {
+  font-weight: bold;
+}
+
+.btn-primary {
+  background-color: #859fe0;
+  border-color: #010000;
+}
+body {
+  background-color: #8ab8e5; /* Replace this color with your desired background color */
+}
+
